@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejaswini</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-<img align="right" alt="Coding" width-"400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
+<img align="right" alt="Coding" width-"400" src="C:\Users\rabbit\Downloads">
 
 - 📫 How to reach me **nrtejaswini25@gmail.com**
 
